@@ -5,7 +5,7 @@ const Hero = () => {
         <img
           src="/src/assets/images/piv.jpg"
           alt="piv Image"
-          className="w-40 h-40 md:w-60 md:h-60 rounded-full shadow-md animate-wave"
+          className="w-40 h-40 md:w-60 md:h-60 rounded-full shadow-md animate-wave my-8"
         />
       </div>
       <section
